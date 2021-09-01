@@ -7,4 +7,5 @@ For End point Test, in tools such as postman, send the Post request which in JSO
 {
     "pinsDowned" : [10,10,10,10,10,10,10,10,10,10,10,10]
 }.
+Request will be sent to host : port like http://localhost:5000/Scores  
 Response will also be in JSON format.
